@@ -34,7 +34,7 @@
 <a href="https://kaggle.com/shubhrajitghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shubhrajitghosh" height="30" width="40" /></a>
 <a href="https://fb.com/shubhrajit.ghosh.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shubhrajit.ghosh.10" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/shubhrajit_g2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shubhrajit_g2002" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user6184ac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user6184ac" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/user6184ac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user6184ac" height="30" width="40" /></a> -->
 <a href="https://discord.gg/shubhrajitghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shubhrajitghosh" height="30" width="40" /></a>
 </p>
 
