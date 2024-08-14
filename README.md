@@ -1,8 +1,8 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
-<h1 align="center" style="color: #1DA1F2; font-size: 3em;">Hey! I am... <br> <b style="font-size:6em">Shubhrajit Ghosh </b></h1>
+<h1 align="center" style="color: #1DA1F2; font-size: 3em;">Hey! I am... <br> <b style="font-size:6em">Shubhrajit Ghosh</b></h1>
 
-<h3 align="center">Passionate about all things tech 🚀 | GitHub aficionado | Coding enthusiast 💻 | Open source advocate 🌟</h3>
+<h3 align="center">Passionate about all things tech 🚀 | GitHub aficionado | Coding enthusiast 💻 | Open source advocate  🌟 </h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
