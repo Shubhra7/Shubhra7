@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **Salesforce**
 
-- 💬 Ask me about **DSA, OOPs**
+- 💬 Ask me about  **DSA, OOPs**
 
 - 📫 How to reach me **shubhrajit.g2002@gmail.com**
 
