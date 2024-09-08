@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **shubhrajit.g2002@gmail.com**
 
-- ⚡ Hobby fact **I am an Aquascapper**
+- ⚡ Hobby facts **I am an Aquascapper**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
