@@ -12,7 +12,7 @@
 </p>
 
 
-<p align="left">
+<p align="left" >
   <a href="https://twitter.com/shubhrajit40921">
     <img src="https://img.shields.io/twitter/follow/shubhrajit40921?logo=twitter&style=for-the-badge&label=Follow%20%40shubhrajit40921&color=1DA1F2&labelColor=000000" alt="Follow @shubhrajit40921 on Twitter" />
   </a>
