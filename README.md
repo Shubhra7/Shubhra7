@@ -49,4 +49,4 @@
 
 ![Shubhra7's Stats](https://github-readme-stats.vercel.app/api?username=Shubhra7&theme=outrun&show_icons=true&hide_border=true&count_private=true)
 ![Shubhra7's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shubhra7&theme=outrun&hide_border=true)
-![Shubhra7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhra7&theme=outrun&show_icons=true&hide_border=true&layout=compact)
+![Shubhra7's Top Languages](https://github-readme-stats-zeta-ten-57.vercel.app/api/top-langs/?username=Shubhra7&theme=outrun&show_icons=true&hide_border=true&layout=compact)
