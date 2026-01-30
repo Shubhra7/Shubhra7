@@ -25,7 +25,7 @@
 
 - ⚡ Hobby fact **I am an Aquascapper**
 
-<h3 align="left">Connect with me: </h3>
+<h3 align="left">Connect with me:  </h3>
 <p align="left">
 <a href="https://twitter.com/@shubhrajit40921" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shubhrajit40921" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shubhrajit-ghosh-9ab352288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhrajit-ghosh-9ab352288" height="30" width="40" /></a>
